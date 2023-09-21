@@ -1,0 +1,7 @@
+C:\Users\zbc23matlc\Desktop\Skole\H1\Objekt orienteret programering\Den gode systemudvikler\bin\Debug\Den gode systemudvikler.exe.config
+C:\Users\zbc23matlc\Desktop\Skole\H1\Objekt orienteret programering\Den gode systemudvikler\bin\Debug\Den gode systemudvikler.exe
+C:\Users\zbc23matlc\Desktop\Skole\H1\Objekt orienteret programering\Den gode systemudvikler\bin\Debug\Den gode systemudvikler.pdb
+C:\Users\zbc23matlc\Desktop\Skole\H1\Objekt orienteret programering\Den gode systemudvikler\obj\Debug\Den gode systemudvikler.csproj.AssemblyReference.cache
+C:\Users\zbc23matlc\Desktop\Skole\H1\Objekt orienteret programering\Den gode systemudvikler\obj\Debug\Den gode systemudvikler.csproj.CoreCompileInputs.cache
+C:\Users\zbc23matlc\Desktop\Skole\H1\Objekt orienteret programering\Den gode systemudvikler\obj\Debug\Den gode systemudvikler.exe
+C:\Users\zbc23matlc\Desktop\Skole\H1\Objekt orienteret programering\Den gode systemudvikler\obj\Debug\Den gode systemudvikler.pdb
